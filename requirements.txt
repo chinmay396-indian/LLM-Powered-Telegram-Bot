@@ -1,0 +1,5 @@
+aiogram==2.5
+langchain==0.2.0
+langchain_community==0.2.1
+python-dotenv
+ctransformers== 0.2.27
